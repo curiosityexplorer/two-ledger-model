@@ -1,0 +1,5 @@
+sku,provider,input_usd_per_mtok,output_usd_per_mtok
+A-frontier,A,2.0000,8.0000
+B-frontier,B,3.0000,15.0000
+C-frontier,C,1.2500,10.0000
+B-mid,B,0.8000,3.2000

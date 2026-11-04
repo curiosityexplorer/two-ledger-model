@@ -1,0 +1,5 @@
+sku,input_usd_per_mtok,output_usd_per_mtok,drift_vs_price_sheet
+A-frontier,2.026180,8.104722,0.013090
+B-frontier,3.047074,15.235369,0.015691
+C-frontier,1.271683,10.173466,0.017347
+B-mid,0.791455,3.165821,-0.010681

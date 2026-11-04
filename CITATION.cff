@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "Two-Ledger Model: simulation code and synthetic data"
+abstract: >-
+  Simulation study and synthetic datasets for the Two-Ledger Model, an
+  accounting architecture that attributes multi-agent AI cost to individual
+  business transactions across clouds, models, and systems of record, and
+  reconciles it to provider invoices. Covers the correlation spine (E1),
+  period reconciliation (E2), and mid-flight gating (E3).
+authors:
+  - family-names: Acharya
+    given-names: Vivek
+    affiliation: "Independent Researcher, Dallas, TX, USA"
+    email: vacharya@bu.edu
+    orcid: "https://orcid.org/0009-0002-0860-9462"
+repository-code: "https://github.com/curiosityexplorer/two-ledger-model"
+license: BSD-3-Clause-Clear
+version: "1.0.0"
+date-released: "2026-11-04"
+keywords:
+  - agentic AI
+  - multi-agent systems
+  - FinOps
+  - FOCUS
+  - cost attribution
+  - OpenTelemetry
+  - reconciliation
+  - synthetic data

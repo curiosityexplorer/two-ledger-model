@@ -1,0 +1,5 @@
+sku,planted_unmetered_cost_usd,overbilling_pct,underbilling_pct,planted_underbilling_usd,timing_shift_input_tokens,timing_shift_output_tokens
+A-frontier,39.14333608,0.00,0.00,0.00000000,1240643.040,257019.360
+B-frontier,58.84427088,0.00,0.00,0.00000000,1261107.120,247789.360
+C-frontier,22.61855760,3.00,0.00,0.00000000,735053.280,140649.600
+B-mid,5.91061568,0.00,2.00,-3.05992253,499879.120,87493.120
